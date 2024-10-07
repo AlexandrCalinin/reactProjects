@@ -1,1 +1,1 @@
-This is a common repository for all react projects
+This is a common repository for all react projects.
